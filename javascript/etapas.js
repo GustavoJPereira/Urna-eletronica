@@ -5,16 +5,16 @@ let etapas = [
         candidatos: [
             {
                 numero: '11111',
-                nome: 'CcP',
-                partido: 'PROGRAMADORES',
+                nome: 'Serpente do Edem',
+                partido: 'CcP',
                 fotos: [
                     { url: '6.jpg', legenda: 'Vereador', small: false }
                 ]
             },
             {
                 numero: '22222',
-                nome: 'CsP',
-                partido: 'SOFTWARES',
+                nome: 'Primo Dela',
+                partido: 'CsP',
                 fotos: [
                     { url: '5.jpg', legenda: 'Vereador' }
                 ]
@@ -27,9 +27,9 @@ let etapas = [
         candidatos: [
             {
                 numero: '11',
-                nome: 'CcP',
-                partido: 'DESENVOLVEDORES',
-                vice: 'Kelly Amaral',
+                nome: 'Mago Fofo',
+                partido: 'CcP',
+                vice: 'O aprediz dele',
                 fotos: [
                     { url: '2.png', legenda: 'Prefeito' },
                     { url: '3.png', legenda: 'Vice-Prefeito', small: true }
@@ -37,9 +37,9 @@ let etapas = [
             },
             {
                 numero: '22',
-                nome: 'CsP',
-                partido: 'REDES',
-                vice: 'Rominho',
+                nome: 'Mago louco',
+                partido: 'CsP',
+                vice: 'Maria Come Morango',
                 fotos: [
                     { url: '1.png', legenda: 'Prefeito' },
                     { url: '4.jpg', legenda: 'Vice-Prefeito', small: true }
